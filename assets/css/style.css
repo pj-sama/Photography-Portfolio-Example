@@ -3,9 +3,6 @@ body {
     /* font-weight: 600; */
 }
 
-/* .sect {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-} */
+#portrait {
+    max-width: 60%;
+}
