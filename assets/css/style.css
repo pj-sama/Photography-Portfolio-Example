@@ -4,5 +4,18 @@ body {
 }
 
 #portrait {
-    max-width: 60%;
+    max-height: 50vh;
+}
+/* #showcase{
+    max-height: 90%;
+} */
+
+#intro {
+    height:100vh;
+    display: flex;
+}
+
+#get-to-know-me {
+    height:100vh;
+    display: flex;
 }
